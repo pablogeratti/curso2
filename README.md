@@ -1,2 +1,6 @@
-# curso2
-Curso de Git e GitHub
+# Título Principal 
+Curso de Git GitHub
+
+## Módulos:
+Entendendo, Aprendendo e Trabalhando
+
