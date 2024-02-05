@@ -1,8 +1,8 @@
 # Título Principal 
-Curso de Git GitHub
+Curso de **Git GitHub** _do zero ao profissional._
 
 ## Módulos:
-Entendendo, Aprendendo e Trabalhando
+_Entendendo, Aprendendo **e** Trabalhando_
 
 # Titulo (h1)
 ## Título (h2)
